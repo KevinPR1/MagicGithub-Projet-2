@@ -10,4 +10,8 @@ public abstract class BaseActivity extends AppCompatActivity {
     public UserRepository getUserRepository() {
         return ((MagicGithubApplication) getApplication()).getUserRepository();
     }
+
+
+
 }
+

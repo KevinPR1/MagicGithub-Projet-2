@@ -13,7 +13,7 @@ public class UserRepository {
         this.apiService = apiService;
     }
 
-    public List<User> getUsers() {
+     public List<User> getUsers() {
         // TODO: A modifier
         return null;
     }
@@ -22,7 +22,7 @@ public class UserRepository {
         // TODO: A modifier
     }
 
-       public void deleteUser(User user) {
+    public void deleteUser(User user) {
         // TODO: A modifier
     }
 }
