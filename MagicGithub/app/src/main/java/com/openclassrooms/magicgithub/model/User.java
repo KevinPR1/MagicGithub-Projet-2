@@ -17,6 +17,8 @@ public class User {
         this.avatarUrl = avatarUrl;
     }
 
+
+
     // --- GETTERS ---
     public String getId() { return id; }
     public String getLogin() { return login; }
