@@ -32,7 +32,7 @@ public class UserRepository {
 
 
         // TODO: A modifier
-        //this.apiService.deleteUser(user);
+
         this.apiService.deleteUser(user);
 }
 
