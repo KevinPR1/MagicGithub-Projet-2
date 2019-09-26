@@ -15,8 +15,6 @@ public class UserRepository {
     }
 
     public List<User> getUsers() {
-
-
         // TODO: A modifier
         return apiService.getUsers();
     }
@@ -29,10 +27,7 @@ public class UserRepository {
 
 
     public void deleteUser(User user) {
-
-
         // TODO: A modifier
-
         this.apiService.deleteUser(user);
 }
 
